@@ -1,6 +1,6 @@
 return {
     ["Life In Prison"] = {
         Status = "🟢",
-        Script = "github.com"
+        Script = "https://raw.githubusercontent.com/Sepper2023/Protection.xyz/refs/heads/main/Life%20In%20Prison"
     }
 }
