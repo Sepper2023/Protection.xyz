@@ -1,5 +1,9 @@
 return {
     ["Life In Prison - 🟢"] = {
         Script = "https://raw.githubusercontent.com/Sepper2023/Protection.xyz/refs/heads/main/Life%20In%20Prison"
+    },
+
+    ["Emergency Hamburg - 🟢"] = {
+        Script = "https://raw.githubusercontent.com/Sepper2023/Protection.xyz/refs/heads/main/Emergency%20Hamburg"
     }
 }
